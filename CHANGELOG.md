@@ -4,7 +4,7 @@ NOTES
 
 * CI: Add `gazpacho` jobs and remove `dalmatian` ([#2027](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2027))
 * CI: Add `hibiscus` jobs and remove `epoxy` ([#2089](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2089))
-* Bumped Go version to 1.25 ([#2026](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2026), [#2016](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2016))
+* Bumped Go version to 1.26 ([#2090](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2090))
 * Deprecate SHA1 and 3DES crypto algorithms in VPNaaS resources ([#2045](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2045))
 * Add `linux/s390x` build target for IBM Z / LinuxONE ([#2074](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2074))
 * Bump gophercloud from v2.13.0 to v2.14.0 ([#2071](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/2071))
